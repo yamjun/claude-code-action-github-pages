@@ -6,10 +6,6 @@
 
 This project is a simple Japanese welcome page hosted using GitHub Pages.
 
-## 🌐 ライブサイト | Live Site
-
-**GitHub Pages URL:** https://yamjun.github.io/claude-code-action-github-pages/
-
 ## 📁 プロジェクト構成 | Project Structure
 
 ```
@@ -23,15 +19,6 @@ This project is a simple Japanese welcome page hosted using GitHub Pages.
 このプロジェクトは静的サイトです。特別な設定やビルドプロセスは必要ありません。
 
 This project is a static site. No special setup or build process is required.
-
-### ローカルでの確認 | Local Preview
-
-1. リポジトリをクローンします | Clone the repository:
-   ```bash
-   git clone https://github.com/yamjun/claude-code-action-github-pages.git
-   ```
-
-2. `index.html`をブラウザで開きます | Open `index.html` in your browser
 
 ## 🛠️ 開発 | Development
 
